@@ -73,4 +73,4 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ---
 
-⌨️ com 💜 por [Gabrieli Mendes Nicolodi](https://github.com/GabrieliMendesNicolodi)
+Feito com :heart: por [Gabrieli Mendes Nicolodi](https://github.com/GabrieliMendesNicolodi)
