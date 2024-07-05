@@ -4,13 +4,6 @@
 
 
 <p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
-
--------
-
-
-<p align="center">
 <img 
     src="./assets/cover.png"
     width="400"  
@@ -39,29 +32,35 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  Prompt  | Me escreva como se fosse um profissional programador frontend em css explicando o uso da propriedade css {PROPRIEDADE} para um estudante iniciante em css seguindo as regras {REGRAS}
 
+{PROPRIEDADE}
+background-blend-mode
 
-Midjourney：
+{REGRAS}
+> descreva um exemplo de aplicação simples da {PROPRIEDADE} 
+> cite as opções de valores da propriedade
+> gere o código para aplicar o exemplo citado com comentários nos itens importantes
+> aplique somente os css obrigatorio para a aplicação do efeito 
+> escolha as opções de valor da {PROPRIEDADE} mais importantes    |
 
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| Propriedades | me sugira 5 propriedades css para manipulação de elementos de imagem que são pouco utilizadas mas que criam efeitos complexos |
+
+| conteúdo  | explique {PROPRIEDADE} de maneira rápida e de um exemplo de uso |
+
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Arte gerada através de modelos gratuitos do Canva
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação ou Canva.
 
 ## 👨‍💻 Expert
 
@@ -70,16 +69,15 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/32705497?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspGabrieli Mendes Nicolodi<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/GabrieliMendesNicolodi">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/gabiprogramadoraweb/">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
+    <a href="https://www.instagram.com/gabrielim91/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
@@ -88,4 +86,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Felipe Aguiar](https://github.com/GabrieliMendesNicolodi)
