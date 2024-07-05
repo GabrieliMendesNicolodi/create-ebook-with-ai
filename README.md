@@ -34,12 +34,7 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  Prompt Inicial | Me sugira 5 propriedades css para manipulação de elementos de imagem que são pouco utilizadas mas que criam efeitos complexos | 
 | Prompt individual| Explique como se fosse um profissional programador frontend em CSS explicando o uso da {PROPRIEDADE} css  para um estudante iniciante em css seguindo as regras {REGRAS}| 
-| {REGRAS} | > descreva um exemplo de aplicação simples da {PROPRIEDADE}  
-> cite as opções de valores da {PROPRIEDADE}
-> gere o código para aplicar o exemplo citado com comentários nos itens importantes
-> aplique somente os css obrigatorio para a aplicação do efeito |
-
-| conteúdo  | explique {PROPRIEDADE} de maneira rápida e de um exemplo de uso |
+| {REGRAS} | descreva um exemplo de aplicação simples da {PROPRIEDADE}, cite as opções de valores da {PROPRIEDADE}, gere o código para aplicar o exemplo citado com comentários nos itens importantes, aplique somente os css obrigatorio para a aplicação do efeito |
 
 ## ✨ Features
 
