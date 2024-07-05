@@ -32,22 +32,14 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  Prompt  | Me escreva como se fosse um profissional programador frontend em css explicando o uso da propriedade css {PROPRIEDADE} para um estudante iniciante em css seguindo as regras {REGRAS}
-
-{PROPRIEDADE}
-background-blend-mode
-
-{REGRAS}
-> descreva um exemplo de aplicação simples da {PROPRIEDADE} 
-> cite as opções de valores da propriedade
+|  Prompt Inicial | Me sugira 5 propriedades css para manipulação de elementos de imagem que são pouco utilizadas mas que criam efeitos complexos | 
+| Prompt individual| Explique como se fosse um profissional programador frontend em CSS explicando o uso da {PROPRIEDADE} css  para um estudante iniciante em css seguindo as regras {REGRAS}| 
+| {REGRAS} | > descreva um exemplo de aplicação simples da {PROPRIEDADE}  
+> cite as opções de valores da {PROPRIEDADE}
 > gere o código para aplicar o exemplo citado com comentários nos itens importantes
-> aplique somente os css obrigatorio para a aplicação do efeito 
-> escolha as opções de valor da {PROPRIEDADE} mais importantes    |
-
-| Propriedades | me sugira 5 propriedades css para manipulação de elementos de imagem que são pouco utilizadas mas que criam efeitos complexos |
+> aplique somente os css obrigatorio para a aplicação do efeito |
 
 | conteúdo  | explique {PROPRIEDADE} de maneira rápida e de um exemplo de uso |
-
 
 ## ✨ Features
 
